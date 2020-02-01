@@ -1,1 +1,3 @@
-# case_study
+# case_study 
+
+# Please check HOW TO DOCUMENTATION
