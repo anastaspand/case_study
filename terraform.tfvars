@@ -1,0 +1,8 @@
+resource_group_name = "Project1-RG"
+location = "West Europe"
+vnet_cidr = "10.10.0.0/16"
+subnet_cidr = "10.10.1.0/24"
+jenkins_dnslabel = "albi-jenkins"
+vm_username = "albi"
+ssh_key = "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAnwLsyr8A5E4HL7H1vI5yyQ9PFcpVT7115UPUmfFly6v8j228+hH+HrsoXuJaM5RG7OUF1Cu/KCwv64smb4fFcY4c6v621C85K60UM2lcwMdFJjGu1DZzeZUfX0cPmw6BZoyE6sfk/WSBeJ1EWdRnSe5IOTU/18A0UyMvYh433Q5psw6ty/6QPCPBbRHNREZXRx/8xS7fwKFpX/F2DSU+cL1xhZCrXPJxepJebH9PfbX9itrLK2DIg0sLyV9kNDxYyNEquC+BHakMDrpAO+5zcHgkegkX34ylKkbPcUyPvCyMqtulT6v3/+Y7ff6CretRPHGYNF1ZmCsJOfsVxq3Anw== rsa-key-20191125"
+environment = "Project1"
